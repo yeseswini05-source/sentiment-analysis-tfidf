@@ -1,11 +1,3 @@
-# sentiment-analysis-tfidf
-End-to-end Sentiment Analysis using TF-IDF vectorization and Multinomial Naive Bayes with confusion matrix visualization.
-
-
-Perfect. Here is a clean, professional README you can paste directly into GitHub.
-
----
-
 # Sentiment Analysis using TF-IDF and Naive Bayes
 
 ## Overview
@@ -102,6 +94,3 @@ The model outputs:
 * Implement cross-validation
 * Deploy as a web application using Streamlit or Flask
 
----
-
-If you want, I can also give you a strong resume bullet point to match this project.
